@@ -3,3 +3,4 @@
 Most of my Projects and Work have been migrated to [https://gitea.nicholaspease.com](https://gitea.nicholaspease.com/npease)
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=LAX18&bg_color=000000&title_color=FFFFFF&icon_color=2F855A&text_color=ffffff&custom_title=All%20Time%20Coding%20Stats&layout=compact)
+![LAX18's GitHub stats](https://github-readme-stats.vercel.app/api?username=lax18&show_icons=true&theme=dark)
